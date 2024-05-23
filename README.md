@@ -8,6 +8,9 @@ A React Native application that replicates the Netflix experience by leveraging 
 - Infinite scrolling for movie lists
 - Responsive and intuitive UI similar to Netflix
 
+## Documentation:
+Click <a href="https://github.com/VarshiRevo/Movie-app-Documentation">Here</a> to view the Project Documentation
+
 ## Installation
 To get a local copy up and running follow these simple steps.
 
